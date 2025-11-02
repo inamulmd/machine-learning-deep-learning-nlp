@@ -1,0 +1,10 @@
+2025-11-02 12:11:18-root-DEBUG-This is a dbug message
+2025-11-02 12:11:18-root-INFO-This is an info mesage
+2025-11-02 12:11:18-root-WARNING-This is a warning message
+2025-11-02 12:11:18-root-ERROR-this is an error message
+2025-11-02 12:11:18-root-CRITICAL-This is a critical message
+2025-11-02 12:11:55-root-DEBUG-This is a dbug message
+2025-11-02 12:11:55-root-INFO-This is an info mesage
+2025-11-02 12:11:55-root-WARNING-This is a warning message
+2025-11-02 12:11:55-root-ERROR-this is an error message
+2025-11-02 12:11:55-root-CRITICAL-This is a critical message
